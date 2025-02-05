@@ -1,0 +1,25 @@
+body {
+    font-family: "Arial Black", "Meiryo", sans-serif;
+    font-size: 20px;
+    text-align: center;
+  }
+h1 {
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5rem;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px gray;
+    border-bottom: solid 3px ;
+    color: rgb(115, 115, 114);
+  }
+.pink {
+    color: rgb(255, 192, 203);
+  }
+.blue {
+    color: skyblue;
+  }
+#basic > p {
+    font-weight: bold;
+  }
